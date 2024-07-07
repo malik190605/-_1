@@ -3,4 +3,8 @@ git init - инициализирует проект(.git)
 git remote add origin - ссылка на ваш репозиторий - она привязывает репозиторий и ваш проект
 
  2 Каждый раз
- git add namefile\. -  добавляет в репозиторий ваши файлы
+git add .namefile\. -  добавляет в репозиторий ваши файлы
+git commit -m 'урок_1' - чекпоинт
+git config --global user.email "malikakimov31@example.com"
+git config --global user.name "malik190605"
+git push origin master\main - отправка  в ваш репозиторий
